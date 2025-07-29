@@ -4,9 +4,7 @@ function App() {
     const [count, setCount] = useState(0)
 
     function incriment() {
-        if (count === 10) {
-
-        }
+        
 
         setCount(count + 1)
     }
